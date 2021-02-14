@@ -1,0 +1,10 @@
+set guifont=Iosevka_Term:h15
+set vb t_vb=
+set belloff=all
+set noerrorbells
+
+
+" color scheme of the moment:
+syntax on
+colorscheme gruvbox
+set background=dark
